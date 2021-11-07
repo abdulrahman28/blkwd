@@ -1,0 +1,6 @@
+blkwd	KEYWORD1
+idle	KEYWORD2
+flash	KEYWORD2
+at	KEYWORD2
+toggle	KEYWORD2
+
